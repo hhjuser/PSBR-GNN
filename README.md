@@ -1,4 +1,4 @@
-# Edge-Private Graph Neural Networks via Aggregation-Preserving Graph Reconstruction  (PSBR-GNN)
+# Edge-Private Graph Neural Networks via Structural Bottleneck Reconstruction  (PSBR-GNN)
 
 ## Requirements
 This artifact relies on the environment setup defined in `requirements.txt`.
